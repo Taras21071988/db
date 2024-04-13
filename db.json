@@ -1,127 +1,102 @@
 {
   "products": [
     {
-      "category": "Women's T-Shirts",
-      "items": [
-        {
-          "id":1,
-          "name": "Red Women's T-Shirt",
-          "price": 20,
-          "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
-        },
-        {
-          "id":2,
-          "name": "Blue Women's T-Shirt",
-          "price": 25,
-          "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatem necessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
-        },
-        {
-          "id":3,
-          "name": "Green Women's T-Shirt",
-          "price": 22,
-          "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
-        }
-      ]
+      "id": 1,
+      "name": "Red Women's T-Shirt",
+      "price": 20,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
     },
     {
-      "category": "Men's T-Shirts",
-      "items": [
-        {
-          "id":4,
-          "name": "Black Men's T-Shirt",
-          "price": 30
-        },
-        {
-          "id":5,
-          "name": "White Men's T-Shirt",
-          "price": 28
-        },
-        {
-          "id":6,
-          "name": "Gray Men's T-Shirt",
-          "price": 26
-        }
-      ]
+      "id": 2,
+      "name": "Blue Women's T-Shirt",
+      "price": 25,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatem necessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
     },
     {
-      "category": "Dresses",
-      "items": [
-        {
-          "id":7,
-          "name": "Summer Dress",
-          "price": 50
-        },
-        {
-          "id":8,
-          "name": "Evening Dress",
-          "price": 60
-        },
-        {
-          "id":9,
-          "name": "Casual Dress",
-          "price": 45
-        }
-      ]
+      "id": 3,
+      "name": "Green Women's T-Shirt",
+      "price": 22,
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
+    },
+
+    {
+      "id": 4,
+      "name": "Black Men's T-Shirt",
+      "price": 30
     },
     {
-      "category": "Novelty socks",
-      "items": [
-        {
-          "id":10,
-          "name": "Funny Novelty Socks",
-          "price": 5
-        },
-        {
-          "id":11,
-          "name": "Colorful Novelty Socks",
-          "price": 4
-        },
-        {
-          "id":12,
-          "name": "Patterned Novelty Socks",
-          "price": 6
-        }
-      ]
+      "id": 5,
+      "name": "White Men's T-Shirt",
+      "price": 28
     },
     {
-      "category": "Women's sunglasses",
-      "items": [
-        {
-          "id":13,
-          "name": "Cat Eye Sunglasses",
-          "price": 30
-        },
-        {
-          "id":14,
-          "name": "Aviator Sunglasses",
-          "price": 35
-        },
-        {
-          "id":15,
-          "name": "Round Sunglasses",
-          "price": 32
-        }
-      ]
+      "id": 6,
+      "name": "Gray Men's T-Shirt",
+      "price": 26
+    },
+
+    {
+      "id": 7,
+      "name": "Summer Dress",
+      "price": 50
     },
     {
-      "category": "Men's sunglasses",
-      "items": [
-        {
-          "id":16,
-          "name": "Wayfarer Sunglasses",
-          "price": 40
-        },
-        {
-          "id":17,
-          "name": "Polarized Sunglasses",
-          "price": 45
-        },
-        {
-          "id":19,
-          "name": "Sport Sunglasses",
-          "price": 38
-        }
-      ]
+      "id": 8,
+      "name": "Evening Dress",
+      "price": 60
+    },
+    {
+      "id": 9,
+      "name": "Casual Dress",
+      "price": 45
+    },
+
+    {
+      "id": 10,
+      "name": "Funny Novelty Socks",
+      "price": 5
+    },
+    {
+      "id": 11,
+      "name": "Colorful Novelty Socks",
+      "price": 4
+    },
+    {
+      "id": 12,
+      "name": "Patterned Novelty Socks",
+      "price": 6
+    },
+
+    {
+      "id": 13,
+      "name": "Cat Eye Sunglasses",
+      "price": 30
+    },
+    {
+      "id": 14,
+      "name": "Aviator Sunglasses",
+      "price": 35
+    },
+    {
+      "id": 15,
+      "name": "Round Sunglasses",
+      "price": 32
+    },
+
+    {
+      "id": 16,
+      "name": "Wayfarer Sunglasses",
+      "price": 40
+    },
+    {
+      "id": 17,
+      "name": "Polarized Sunglasses",
+      "price": 45
+    },
+    {
+      "id": 19,
+      "name": "Sport Sunglasses",
+      "price": 38
     }
   ]
 }
