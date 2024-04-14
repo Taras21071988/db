@@ -3,18 +3,21 @@
     {
       "id": 1,
       "name": "Red Women's T-Shirt",
+      "category": "Women's T-Shirts",
       "price": 20,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
     },
     {
       "id": 2,
       "name": "Blue Women's T-Shirt",
+      "category": "Women's T-Shirts",
       "price": 25,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatem necessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
     },
     {
       "id": 3,
       "name": "Green Women's T-Shirt",
+      "category": "Women's T-Shirts",
       "price": 22,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora! Aut consectetur architecto cum quaerat minus numquam delectus, nam ipsum."
     },
@@ -22,80 +25,95 @@
     {
       "id": 4,
       "name": "Black Men's T-Shirt",
+      "category": "Men's T-Shirts",
       "price": 30
     },
     {
       "id": 5,
       "name": "White Men's T-Shirt",
+      "category": "Men's T-Shirts",
       "price": 28
     },
     {
       "id": 6,
       "name": "Gray Men's T-Shirt",
+      "category": "Men's T-Shirts",
       "price": 26
     },
 
     {
       "id": 7,
       "name": "Summer Dress",
+      "category": "Dresses",
       "price": 50
     },
     {
       "id": 8,
       "name": "Evening Dress",
+      "category": "Dresses",
       "price": 60
     },
     {
       "id": 9,
       "name": "Casual Dress",
+      "category": "Dresses",
       "price": 45
     },
 
     {
       "id": 10,
       "name": "Funny Novelty Socks",
+      "category": "Novelty socks",
       "price": 5
     },
     {
       "id": 11,
       "name": "Colorful Novelty Socks",
+      "category": "Novelty socks",
       "price": 4
     },
     {
       "id": 12,
       "name": "Patterned Novelty Socks",
+      "category": "Novelty socks",
       "price": 6
     },
 
     {
       "id": 13,
       "name": "Cat Eye Sunglasses",
+      "category": "Women's sunglasses",
       "price": 30
     },
     {
       "id": 14,
       "name": "Aviator Sunglasses",
+      "category": "Women's sunglasses",
       "price": 35
     },
     {
       "id": 15,
       "name": "Round Sunglasses",
+      "category": "Women's sunglasses",
       "price": 32
     },
 
     {
       "id": 16,
       "name": "Wayfarer Sunglasses",
+      "category": "Men's sunglasses",
       "price": 40
     },
     {
       "id": 17,
       "name": "Polarized Sunglasses",
+      "category": "Men's sunglasses",
       "price": 45
     },
     {
       "id": 19,
       "name": "Sport Sunglasses",
+      "category": "Men's sunglasses",
       "price": 38
     }
   ]
