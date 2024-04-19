@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "cover":"/images/Red Women's T-Shirt.webp"
       "name": "Red Women's T-Shirt",
       "category": "Women's T-Shirts",
       "price": 20,
